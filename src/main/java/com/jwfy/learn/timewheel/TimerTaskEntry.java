@@ -1,4 +1,4 @@
-package com.jwfy.learn.java.timewheel;
+package com.jwfy.learn.timewheel;
 
 /**
  * 双写链表的节点，其中包含了一个延期的具体任务

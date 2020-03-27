@@ -1,4 +1,4 @@
-package com.jwfy.learn.java.zookeeper;
+package com.jwfy.learn.zookeeper;
 
 public class ZkUtil {
 

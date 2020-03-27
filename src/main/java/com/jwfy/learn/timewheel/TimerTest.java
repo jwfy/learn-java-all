@@ -1,4 +1,4 @@
-package com.jwfy.learn.java.timewheel;
+package com.jwfy.learn.timewheel;
 
 public class TimerTest {
 

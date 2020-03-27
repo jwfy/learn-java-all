@@ -1,4 +1,4 @@
-package com.jwfy.learn.java.kafka;
+package com.jwfy.learn.kafka;
 
 import java.time.Duration;
 import java.util.Arrays;

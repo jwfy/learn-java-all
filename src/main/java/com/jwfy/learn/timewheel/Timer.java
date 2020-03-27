@@ -1,4 +1,4 @@
-package com.jwfy.learn.java.timewheel;
+package com.jwfy.learn.timewheel;
 
 import java.util.concurrent.DelayQueue;
 import java.util.concurrent.ExecutorService;

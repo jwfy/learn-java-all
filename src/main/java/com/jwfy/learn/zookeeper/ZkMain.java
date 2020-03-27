@@ -1,4 +1,4 @@
-package com.jwfy.learn.java.zookeeper;
+package com.jwfy.learn.zookeeper;
 
 import org.apache.curator.RetryPolicy;
 import org.apache.curator.framework.CuratorFramework;
