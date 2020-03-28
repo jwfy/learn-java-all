@@ -1,5 +1,7 @@
 package com.jwfy.learn.functionalinterface;
 
+import org.junit.Test;
+
 /**
  * 针对FunctionalInterfaceWithResult 新增了一个对应的lambda方法，所有方法如下
  *
@@ -16,9 +18,10 @@ package com.jwfy.learn.functionalinterface;
 
 public class WithResultTest {
 
-    public static void main(String[] args) {
-        FunctionalInterfaceWithResult withResult = (nameA, nameB) -> "[" + nameA + ":" + nameB + "]";
-
+    @Test
+    public void test() {
+        FunctionalInterfaceWithResult withResult =
+                (nameA, nameB) -> "[" + nameA + ":" + nameB + "]";
         System.out.println(withResult.getName("hello", "withResult"));
     }
 

@@ -1,16 +1,17 @@
 package com.jwfy.learn.functionalinterface;
 
+import org.junit.Test;
+
 public class WithNoResultTest {
 
-
-
-    public static void main(String[] args) {
-        FunctionalInterfaceWithNoResult withNoResult = (nameA, nameB) -> System.out.println("[" + nameA + ":" + nameB + "]");
+    @Test
+    public void test() {
+        FunctionalInterfaceWithNoResult withNoResult =
+                (nameA, nameB) -> System.out.println("[" + nameA + ":" + nameB + "]");
         withNoResult.printName("hello", "withNoResult");
     }
 
 }
-
 
 @FunctionalInterface
 interface FunctionalInterfaceWithNoResult {
