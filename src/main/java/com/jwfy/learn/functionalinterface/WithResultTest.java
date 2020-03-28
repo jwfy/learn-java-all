@@ -1,4 +1,4 @@
-package com.jwfy.learn.java8.functionalinterface;
+package com.jwfy.learn.functionalinterface;
 
 /**
  * 针对FunctionalInterfaceWithResult 新增了一个对应的lambda方法，所有方法如下

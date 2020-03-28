@@ -1,4 +1,4 @@
-package com.jwfy.learn.spi;
+package com.jwfy.learn.spitest;
 
 import java.util.Iterator;
 import java.util.ServiceLoader;

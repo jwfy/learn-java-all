@@ -1,4 +1,4 @@
-package com.jwfy.learn.java8.functionalinterface;
+package com.jwfy.learn.functionalinterface;
 
 public class WithNoResultTest {
 

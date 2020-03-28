@@ -1,4 +1,4 @@
-package com.jwfy.learn.java8.methodhandler;
+package com.jwfy.learn.methodhandler;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodHandles;

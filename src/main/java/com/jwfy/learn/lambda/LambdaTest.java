@@ -1,4 +1,4 @@
-package com.jwfy.learn.java8.lambda;
+package com.jwfy.learn.lambda;
 
 /**
  *
